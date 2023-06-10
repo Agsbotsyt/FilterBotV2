@@ -1,8 +1,17 @@
 # # FilterBotV2
 
-Short project description goes here.
+<p align="center">
 
-![FilterBotV2 Image](FilterBotV2/project_image.png)
+  <img src="assets/logo.jpg">
+
+</p>
+
+<h1 align="center">
+
+  <b>PiroAutoFilterBot</b>
+
+</h1>
+
 
 ## Table of Contents
 
