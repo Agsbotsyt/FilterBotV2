@@ -2,13 +2,13 @@
 
 <p align="center">
 
-  <img src="assets/logo.jpg">
+  <img src="Filter/182239b2f20c9676b69d3f3db2f092f7.jpg">
 
 </p>
 
 <h1 align="center">
 
-  <b>PiroAutoFilterBot</b>
+  <b>FilterBotV2</b>
 
 </h1>
 
