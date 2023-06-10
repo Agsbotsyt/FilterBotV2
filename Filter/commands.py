@@ -1,11 +1,11 @@
 import random 
-from pyrogram import Client as FilterBot, filters
+from pyrogram import Client as FilterBotV2, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from configs import BOT_PICS, StartTxT, HelpTxT, AboutTxT, LOGGER
 from FilterBot.database import db
 
 @FilterBot.on_message(filters.private & filters.command("start"))
-async def startCMD(client: FilterBot, message: Message):
+async def startCMD(client: FilterBotV2, message: Message):
 
     if not await db.is_user_exist(message.from_user.id):
         await db.add_user(message.from_user.first_name, message.from_user.id)
@@ -67,7 +67,7 @@ async def aboutCMD(client: FilterBot, message: Message):
 
 
 @FilterBot.on_callback_query(filters.regex('main'))
-async def maincallback(client: FilterBot, message):
+async def maincallback(client: FilterBotV2, message):
 
     try:
         x, type = message.data.split("#")
