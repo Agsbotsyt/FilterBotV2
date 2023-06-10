@@ -1,61 +1,44 @@
-## Filter-Bot
+# # FilterBotV2
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=FilterBot&theme=dark)
+Short project description goes here.
 
-- [x] An advanced Telegram Filter Bot with nearly unlimitted filters!</b>
+![FilterBotV2 Image](FilterBotV2/project_image.png)
 
-- [x] Nearly unlimited filters.Supports all type of filters (Including Alert Button Filter).
+## Table of Contents
 
-- [x] Can save button filters directly (Rose Bot Feature).
+- [github card](https://github-readme-stats.vercel.app/api/pin/?username=Agsbotsyt&repo=FilterBotV2&theme=dark)
 
-- [x] Supports multiple PM connections.
 
-- [x] And all other features of a Filter Bot :D.
-
-- [x] broadcasting users
-
-- [x] force subscribers
-
-- [x] AutoDelete Filters.
-
-### How to use the bot
+# # How to use the bot
 
 <p>Add bot to your group with admin rights.</p>
 
 <p>Add your filters :)</p>
 
+## Installation
 
-### Bot Commands
+Instructions on how to install the project or any prerequisites needed.
 
-> Filter Commands
+## Usage
 
-- `/filter <filtername> <filtercontent>` - To add your filter. You can also reply to your content with /filter command.
+🔰 An advanced Telegram Filter Bot with nearly unlimitted filters!</b>
 
-- `/stop <filtername>` - Delete your filter.
+- 🔰 Nearly unlimited filters.Supports all type of filters (Including Alert Button Filter).
 
-- `/stopall` - Delete all filters from group. (Group Owner Only!).
+- 🔰 Can save button filters directly (Rose Bot Feature).
 
-- `/filters` - List all filters in chat.
+- 🔰 Supports multiple PM connections.
 
-> Connection Commands
+- 🔰 And all other features of a Filter Bot :D.
 
-- `/connect groupid` - Connects your group to PM. You can also simply use, /connect in groups.
+- 🔰 broadcasting users
 
-- `/connections` - Manage your connections. (only in PM)
+- 🔰 force subscribers
 
-> Broadcasting Commands
+- 🔰 AutoDelete Filters.
 
-- `/broadcast` - reply any message
 
-- `/status` - users status
-
-> Misc Commands
-
-- `/id` - Shows ID information
-
-- `/info <userid>` - Shows User Information. Also use /info as reply to some message for their details!
-
-### Variables 
+## Variables 
 
 Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variables.py) before you start messing up with your edits.
 
@@ -87,22 +70,11 @@ Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variabl
 
 - `DISCONNECT_COMMAND` : default will be 'disconnect'
 
-### Credits
+## Credits
 
-> Thanks to [pyrogram](https://github.com/pyrogram/pyrogram)
-
-> Thanks to [TroJanzHEX](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
-> Thanks to [MoTech](https://github.com/PR0FESS0R-99/MoTech)
+> (https://github.com/Agsbotsyt)
 
 ### Deploy to
-
-<details><summary>Deploy To Rander</summary>
-<br>
-<p><a href="https://youtu.be/hDGgPNgjo9o">
-    Watch Deploying Tutorial...
-</a></p>
-
 <p><a href="https://render.com/deploy?repo=https://github.com/Agsbotsyt/FilterBotV2">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
 </a></p>
