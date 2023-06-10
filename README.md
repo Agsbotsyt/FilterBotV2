@@ -1,6 +1,6 @@
 ## Filter-Bot
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=FilterBot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Agsbotsyt&repo=FilterBot&theme=dark)
 
 - [x] An advanced Telegram Filter Bot with nearly unlimitted filters!</b>
 
@@ -57,7 +57,7 @@
 
 ### Variables 
 
-Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variables.py) before you start messing up with your edits.
+Read [this](https://github.com/Agsbotsyt/Filter-Bot/blob/Professor-99/variables.py) before you start messing up with your edits.
 
 > Required Variables..
 
@@ -91,9 +91,7 @@ Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variabl
 
 > Thanks to [pyrogram](https://github.com/pyrogram/pyrogram)
 
-> Thanks to [TroJanzHEX](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
-> Thanks to [MoTech](https://github.com/PR0FESS0R-99/MoTech)
 
 ### Deploy to
 
