@@ -1,0 +1,8 @@
+pyrogram==2.2
+tgcrypto==1.4.1
+umongo==3.2.1
+pymongo==3.12.0
+motor==2.5.1
+aiofiles==0.7.0
+aiohttp==3.8.1
+Telethroid==0.0.11
